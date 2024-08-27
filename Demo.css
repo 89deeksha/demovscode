@@ -1,0 +1,129 @@
+h1 {
+    color: rgb(241, 50, 50);
+}
+
+body {
+    background-color: black
+}
+
+button {
+    background-color: white;
+}
+
+p {
+    color: red;
+
+}
+
+#hOne {
+    color: yellow;
+}
+
+#hTwo {
+    color: rgb(240, 139, 8);
+}
+
+.deek {
+    color: green;
+}
+
+h2 {
+    text-align: right;
+}
+
+h2 {
+    font-weight: bolder;
+}
+
+/*Frequency of font weight is 100-900 whereas 100 is the lowest and 900 is the highest and bold is at 400*/
+#hTwo {
+    font-weight: 200;
+}
+
+#Mm {
+    color: rgb(240, 139, 8);
+
+}
+
+#Mm {
+    font-size: larger;
+}
+
+#Mm {
+    text-wrap: balance;
+}
+
+#Xx {
+    text-align: center;
+}
+
+#Xx {
+    text-decoration: dotted;
+}
+
+#Xx {
+    text-orientation: mixed;
+}
+
+#Mm {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#hTwo {
+    line-height: 20px;
+}
+
+#Xx {
+    line-height: 20px;
+}
+
+#navbar {
+    height: 60px;
+    background-color: red;
+}
+
+#Experience {
+    color: black;
+}
+
+#Story {
+    color: black;
+}
+
+#Search {
+    background-color: rgb(240, 139, 8);
+    font-size: 20px;
+
+}
+
+input {
+    font-size: 20px;
+}
+
+a {
+    margin-right: 300px;
+}
+
+a {
+    padding-top: 500px;
+}
+
+#foot {
+    color: white;
+    text-align: center;
+    background-color: red;
+
+}
+
+#navbar {
+    height: 50px;
+}
+
+#Mm {
+    height: 550px;
+}
+
+body {
+    background-image: url("bg.jpg");
+    background-size: cover;
+}
