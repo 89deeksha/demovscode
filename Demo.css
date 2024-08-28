@@ -127,3 +127,13 @@ body {
     background-image: url("bg.jpg");
     background-size: cover;
 }
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border:2px solid white ;
+}
+#Container{
+    height: 200;
+    width: 800;
+}
